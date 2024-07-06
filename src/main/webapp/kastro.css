@@ -43,7 +43,7 @@ body {
     margin: 20px auto;
 }
 
-.aws-button, .docker-button, . {
+ {
     display: inline-block;
     background-color: #FF9900; /* AWS orange */
     color: white;
